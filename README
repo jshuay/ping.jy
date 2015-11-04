@@ -1,0 +1,9 @@
+Requires gtk, appindicator, gobject
+
+Make ping.sh a runnable script:
+    chmod +x scripts/ping.sh
+
+Run:
+    python Ping_jy.py
+
+Another one of my side projects for my Ubuntu system. Wanted a way to easily check what my ping is.
